@@ -1,0 +1,12 @@
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee" version="3.1">
+  <element>
+    <servlet>
+        <servlet-name>StudentServlet</servlet-name>
+        <servlet-class>com.example.StudentServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>StudentServlet</servlet-name>
+        <url-pattern>/register</url-pattern>
+    </servlet-mapping>
+    </element>
+</web-app>
