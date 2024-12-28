@@ -1,4 +1,8 @@
 Student Registration Web Application
+
+
+
+
 A simple Java web application to register students, store their information in a MySQL database, and display registered students in a styled table.
 
 Features
